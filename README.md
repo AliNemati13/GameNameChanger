@@ -13,5 +13,6 @@ Change the name of the game in the server list with configuration file without r
 - the project [ReHLDS](https://github.com/dreamstalker/rehlds) 
 - the project [ReGameDLL_CS](https://github.com/s1lentq/ReGameDLL_CS)
 - the project [ReAPI](https://github.com/s1lentq/reapi) 
+- the project [AMX Mod X](https://github.com/alliedmodders/amxmodx) 
 
 [github]: https://github.com/AliNemati13/GameNameChanger
