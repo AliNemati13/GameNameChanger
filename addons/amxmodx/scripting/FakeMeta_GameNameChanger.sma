@@ -3,7 +3,6 @@
 #include <FakeMeta>
 
 #pragma semicolon 1
-#pragma compress 1
 
 #define PluginName "Game Name Changer"
 #define PluginVersion "1.0"
